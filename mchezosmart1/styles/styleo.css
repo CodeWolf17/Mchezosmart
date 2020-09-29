@@ -1,0 +1,58 @@
+.contabee {
+  background-image: url("../pichaz/blue2.gif");
+  background-repeat: repeat;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contabee1 {
+  background-image: url("../pichaz/blue.gif");
+  background-repeat: repeat;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contagee {
+  background-image: url("../pichaz/orange.gif");
+  background-repeat: repeat;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+  .conts {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    width: 80%;
+    height: auto;
+
+  }
+
+  .conts1 {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    width: 50%;
+    height: auto;
+
+  }
+
+  .conts2 {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    width: 98%;
+    height: auto;
+
+  }
+
+  .contrad {
+    border-radius: 100px;
+
+  }
