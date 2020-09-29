@@ -12,9 +12,9 @@ How to run the User Registration & Login and User Management System With admin p
 
 5. Create a database with name loginsystem
 
-6. Import loginsystem.sql file(given inside the zip package in SQL file folder)
+6. Import loginsystem.sql file(given inside the zip package in loginsystem/SQL file folder)
 
-7.Run the script http://localhost/mchezosmart1/loginsystem (frontend)
+7.Run the script http://localhost/mchezosmart1/ (frontend)
 
 8. For admin Panel http://localhost/mchezosmart1/loginsystem/admin/kuku0x/@17law
 
